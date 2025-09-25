@@ -1,0 +1,30 @@
+ .navbar{
+   border:1px solid black;
+   width:1500px;
+   height:50px;
+   color:rgb(35, 36, 36,0.5);
+    }
+    .contain{
+         background-color:rgb(94, 139, 176); 
+        border:1px solid blue;
+        width:1600px;
+        height:500px;
+       background-color:blue;
+    }
+    .contain-part{
+         display:flex;
+        justify-content:center;
+        height:200px;
+    }
+    .scontain{
+        display:flex;
+        flex-direction:
+    }
+    .imggroup{
+        width:1800px;
+        height:auto;
+    }
+    .arrange{
+        display:flex;
+        justify-content:space-around;
+    }
